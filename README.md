@@ -43,7 +43,8 @@ After the year 2019 covid came that badly affects Netflix for producing content.
 
 2. Understanding what type content is available in different countries
 ![newplot (4)](https://user-images.githubusercontent.com/95495685/185735167-571aae6f-87c6-4bb0-8677-9f5f4ceff165.png)
-![UNT](https://user-images.githubusercontent.com/95495685/185735277-0b9babe3-1c77-40d2-9707-53ce4230801d.png)
+![UNNTT](https://user-images.githubusercontent.com/95495685/185735394-1471a322-8954-4510-8c53-99dd564e82ce.png)
+
 Because the quantity of movies outnumbers the number of TV series. It appears that movies are most widely available in various countries.
 # Feature Engineering
 --------------------------
