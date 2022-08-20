@@ -35,7 +35,16 @@ Added some columns which are extracted from the Date column.
 # Approach
 -------------------------
 As per the problem statement, understanding what type of content is available in different countries and Is Netflix increasingly focused on TV rather than movies in recent years we have to do clustering on similar content by matching text-based features. For that we used Agglomerative Clustering, and K-means Clustering.
+# EDA-
+-------------------------
+1. Is Netflix has increasingly focusing on TV rather than movies in recent years.
+![newplot (3)](https://user-images.githubusercontent.com/95495685/185735117-c80f5100-b8a5-45fc-b006-fc3e81805c2b.png)
+After the year 2019 covid came that badly affects Netflix for producing content. Movies have exponential growth from the start but due to covid, it is going downwards.
 
+2. Understanding what type content is available in different countries
+![newplot (4)](https://user-images.githubusercontent.com/95495685/185735167-571aae6f-87c6-4bb0-8677-9f5f4ceff165.png)
+![UNT](https://user-images.githubusercontent.com/95495685/185735277-0b9babe3-1c77-40d2-9707-53ce4230801d.png)
+Because the quantity of movies outnumbers the number of TV series. It appears that movies are most widely available in various countries.
 # Feature Engineering
 --------------------------
 ● There are too much classes, so we just obtain the first 50 (the most common 50) ● Unify some of the similar types(genre) ● Make a dictionary with similar content by matching text-based features that we are going to use in clustering.
