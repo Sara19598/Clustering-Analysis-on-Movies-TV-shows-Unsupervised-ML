@@ -1,6 +1,8 @@
 # Clustering-Analysis-on-Netflix-Movies-TV-shows-Unsupervised-ML
-                ![j6a1dipw4qvs9wvalwsv](https://user-images.githubusercontent.com/95495685/185733548-b474bf79-9936-4e1f-82f5-5392b4661ce5.jpeg)
-Introduction
+ ![j6a1dipw4qvs9wvalwsv](https://user-images.githubusercontent.com/95495685/185733548-b474bf79-9936-4e1f-82f5-5392b4661ce5.jpeg)
+
+#Introduction
+--------------------------------------------------------------------------------------------
 Netflix’s recommendation system gives the idea to them about the popularity of their services provides as it help to increase the sold the subscriptions as more as possible,which offers a varieties of items for selections, this help to get them a user satisfaction,and their loyalty to platform and get them a better understanding of what the user wants.
 
 Then it’s easier to get the user to make better decisions from a wide variety of movie products.
