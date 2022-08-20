@@ -85,8 +85,7 @@ Silhouette analysis can be used to study the separation distance between the res
 8. We performed data engineering to remove the unnecessary variables and to convert the data into standardized form into scalar.
 9. We used the Agglomerative Clustering model with dendrogram to obtain the clusters= 4 which gave the silhouette score as 0.19676189959151683.This score is not good so to improve the model we utilized the K-means clustering model.
 10. Implemented model is based on the K-means clustering algorithm consisting of 2,3,4,5,6 clusters. 
-    Silhouette Analysis score for K-means : 
-    
+Silhouette Analysis score for K-means :    
 ● For n_clusters = 2 The average silhouette_score is : 0.7049787496083262 
 ● For n_clusters = 3 The average silhouette_score is : 0.5882004012129721 
 ● For n_clusters = 4 The average silhouette_score is : 0.6505186632729437 
